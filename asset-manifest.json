@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-project-show-emoji-Name/static/css/main.8d43d2a6.css",
+    "main.js": "/React-project-show-emoji-Name/static/js/main.9b185d7f.js",
+    "static/js/453.2edd5e7d.chunk.js": "/React-project-show-emoji-Name/static/js/453.2edd5e7d.chunk.js",
+    "static/media/emoji1.webp": "/React-project-show-emoji-Name/static/media/emoji1.21d881ba80012ef78e24.webp",
+    "index.html": "/React-project-show-emoji-Name/index.html",
+    "main.8d43d2a6.css.map": "/React-project-show-emoji-Name/static/css/main.8d43d2a6.css.map",
+    "main.9b185d7f.js.map": "/React-project-show-emoji-Name/static/js/main.9b185d7f.js.map",
+    "453.2edd5e7d.chunk.js.map": "/React-project-show-emoji-Name/static/js/453.2edd5e7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d43d2a6.css",
+    "static/js/main.9b185d7f.js"
+  ]
+}
